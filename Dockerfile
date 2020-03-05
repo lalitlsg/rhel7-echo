@@ -1,3 +1,3 @@
-From rhel7:7.3
+From rhel7
 
 CMD bash -c "while true; do echo test; sleep 5; done"
